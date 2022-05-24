@@ -1,0 +1,5 @@
+﻿  inamic.cpp
+C:\Users\Kryss\source\repos\sfml2\sfml2\inamic.cpp(16,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Kryss\source\repos\sfml2\sfml2\inamic.cpp(46,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kryss\source\repos\sfml2\sfml2\inamic.cpp(64,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  sfml2.vcxproj -> C:\Users\Kryss\source\repos\sfml2\x64\Debug\sfml2.exe
