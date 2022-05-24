@@ -1,0 +1,5 @@
+﻿  sfml2.cpp
+C:\Users\Kryss\source\repos\proiectpoo-main\sfml2\sfml2.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kryss\source\repos\proiectpoo-main\sfml2\sfml2.cpp(59,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kryss\source\repos\proiectpoo-main\sfml2\sfml2.cpp(160,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  sfml2.vcxproj -> C:\Users\Kryss\source\repos\proiectpoo-main\x64\Debug\sfml2.exe
